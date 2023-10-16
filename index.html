@@ -16,14 +16,16 @@
     </div>
 
     <script>
+        // Create a WebSocket connection to the server using the 'io' function
         var socket = io();
 
+        // Event handler for receiving data from the server
         socket.on('data', function(data) {
-            console.log(data);
+            console.log(data);  // Log the received data to the console
+            // Update the content of HTML elements with the received humidity and temperature data
             document.getElementById('humidity').textContent = data.humidity;
             document.getElementById('temperature').textContent = data.temperature;
         });
-    </script> 
-         
+    </script>
 </body>
 </html>
