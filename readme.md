@@ -50,6 +50,7 @@
 - Arduino IDE
 - VS Code
 - GitHub
+- Arc Browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,9 +99,8 @@ npm installations -
 <!-- Demonstration -->
 ## Demonstration
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<img width="1271" alt="Screenshot 2023-10-16 at 11 29 51 am" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/4c8b31f8-6bfb-4546-b709-69f402387a3b">
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
