@@ -65,6 +65,7 @@ To prepare all the required software installations for this project, follow thes
 ### Prerequisites
 
 To prepare all the required software installations for this project, follow these simple steps.
+<br></br>
 npm installations - 
 * serialport installation to view the output and send messages to the ESP32 serial monitor
   ```sh
