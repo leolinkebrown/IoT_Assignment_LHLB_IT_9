@@ -3,6 +3,10 @@
 
 <h3 align="center">ESP32 Weather Station</h3>
 
+<a href="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
   <p align="center">
     The ESP32 Weather Station with a Node.js Website is a DIY project designed to provide real-time temperature and humidity monitoring and visualization. This project utilizes an ESP32 microcontroller and a DHT11 temperature sensor to collect temperature and humidity data. The collected data is then sent to a Node.js server, which hosts a user-friendly website. Users can access this website to view the temperature and humidity data in a visually appealing format. The project offers a practical and accessible way to monitor temperature and humidity fluctuations. Whether for personal use or educational purposes, this project offers an excellent starting point for building a fully customised weather station.
     <br />
