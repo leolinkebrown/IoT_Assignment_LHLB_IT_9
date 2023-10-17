@@ -115,8 +115,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Bibliography -->
 ## Bibliography
 
-* []()
-* []()
-* []()
+- KY-038 Microphone Sound Sensor Module with Arduino. (2021, December 7). Microcontrollers Lab. https://microcontrollerslab.com/ky-038-microphone-sound-sensor-module-arduino-tutorial/
+- DHT11 ESP32 in Arduino Code: Measuring humidity & temperature. (n.d.). UPesy. Retrieved October 17, 2023, from https://www.upesy.com/blogs/tutorials/dht11-humidity-temperature-sensor-with-arduino-code-on-esp32-board#
+- donsky. (2022, April 18). Using Node.js and React to display a chart of real-time sensor readings. Donskytech.com. https://www.donskytech.com/display-real-time-sensor-data-using-websockets/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
