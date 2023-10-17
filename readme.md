@@ -71,7 +71,7 @@ npm installations -
   ```sh
   npm install serialport
   ```
-* socket.io installation
+* socket.io installation to enable communication between the client and server
   ```sh
   npm install socket.io
   ```
