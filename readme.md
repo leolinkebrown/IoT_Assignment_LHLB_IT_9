@@ -4,7 +4,7 @@
 <h3 align="center">ESP32 Weather Station</h3>
 
 <a href="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9">
-    <img src="images/Yellow Umbrella.png" alt="Logo" width="80" height="80">
+    <img src="images/Yellow Umbrella.png" alt="Logo" width="180" height="180">
   </a>
 
   <p align="center">
