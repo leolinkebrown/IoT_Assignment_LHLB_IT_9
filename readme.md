@@ -92,6 +92,8 @@ npm installations -
    ```
 ### Wiring
 ![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/ebff2e6f-0dfa-4960-a72c-b681ca0a93a0)
+(No CSS)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
