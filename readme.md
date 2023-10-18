@@ -29,7 +29,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
     <li><a href="#demonstration">Demonstration</a></li>
@@ -75,21 +75,16 @@ npm installations -
   npm install socket.io
   ```
 
-### Installation
+### Setup
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Fork this Repo and open it with VS Code
+2. Install all required installations with NPM demonstrated in the "Prerequisites" section of this file
+3. Setup the wiring of the ESP32 and DHT11 temperature sensor detailed in the next section and connect it to your computer through a USB cable
+4. Select the correct port and board 
+5. Run the code using the command in the terminal "node script.js"
+6. Open the localhost:3000 server and observe the results!
+
+
 ### Wiring
 ![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/ebff2e6f-0dfa-4960-a72c-b681ca0a93a0)
 
