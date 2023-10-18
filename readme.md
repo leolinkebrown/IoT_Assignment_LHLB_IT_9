@@ -119,5 +119,10 @@ Email - leo.linkebrown@cgs.act.edu.au
 - KY-038 Microphone Sound Sensor Module with Arduino. (2021, December 7). Microcontrollers Lab. https://microcontrollerslab.com/ky-038-microphone-sound-sensor-module-arduino-tutorial/
 - DHT11 ESP32 in Arduino Code: Measuring humidity & temperature. (n.d.). UPesy. Retrieved October 17, 2023, from https://www.upesy.com/blogs/tutorials/dht11-humidity-temperature-sensor-with-arduino-code-on-esp32-board#
 - donsky. (2022, April 18). Using Node.js and React to display a chart of real-time sensor readings. Donskytech.com. https://www.donskytech.com/display-real-time-sensor-data-using-websockets/
+- Temperature Sensor - ESP32-S2 - — ESP-IDF Programming Guide latest documentation. (n.d.). Docs.espressif.com. Retrieved October 18, 2023, from https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-reference/peripherals/temp_sensor.html#:~:text=The%20ESP32%2DS2%20has%20a
+- ESP32 - Temperature Sensor. (n.d.). ESP32 Tutorial. Retrieved October 18, 2023, from https://esp32io.com/tutorials/esp32-temperature-sensor
+- ESP32 DS18B20 Temperature Sensor with Arduino IDE (Single, Multiple, Web Server) | Random Nerd Tutorials. (2019, July 14). https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/
+- Adams, E. (2020, November 4). How to Build Your Own ESP32 Temperature Monitor. Initial State. https://medium.com/initial-state/how-to-build-your-own-esp32-temperature-monitor-6967b797b913
+- Interface DHT11 DHT22 with ESP32 & Display Values Using Web Server. (2018, August 16). Last Minute Engineers. https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
