@@ -94,7 +94,8 @@ npm installations -
 ![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/ebff2e6f-0dfa-4960-a72c-b681ca0a93a0)
 (No CSS)
 
-
+![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/4059154e-d2f1-4e1f-931e-eb1e6571402b)
+(With CSS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
