@@ -102,6 +102,18 @@ npm installations -
 ![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/4059154e-d2f1-4e1f-931e-eb1e6571402b)
 (With CSS)
 
+<br></br>
+
+![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/d8154117-583b-4d53-b9f1-d6bd4f229869)
+DHT11 Image
+
+<br></br>
+
+![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/59c7432e-364c-4d9f-91ed-634ecae1a87b)
+Connected Wiring Image 
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
