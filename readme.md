@@ -116,7 +116,7 @@ Connected Wiring Image
 
 ## Explanation
 
-The code and wiring diagram in this repository allows you to create a weather station app using Node.JS and the ESP32 microcontroller. After installing the temperature and humidity sensor, the arduino .ino code uploaded to the ESP32 sends the data received from the DHT11 sensor and sends it to the Node.JS website. This allows the real-time temperature and humidity data to be displayed on the Node.JS website, allowing you to monitor the temperature and humidity around you to warn for danger or measurements for air conditioning or room heating.
+The code and wiring diagram in this repository allows you to create a weather station app using Node.JS and the ESP32 microcontroller. After installing the temperature and humidity sensor, the arduino .ino code uploaded to the ESP32 sends the data received from the DHT11 sensor and sends it to the server.js file in VS Code. After running the server.js file, this data is sent to the index.html file and displays the values to the user. This allows the real-time temperature and humidity data to be displayed on the Node.JS website, allowing you to monitor the temperature and humidity around you to warn for danger or measurements for air conditioning or room heating.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
