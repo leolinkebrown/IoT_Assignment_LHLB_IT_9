@@ -17,7 +17,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
- <details>
   ## <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -37,7 +36,6 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#bibliography">Bibliography</a></li>
   </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
