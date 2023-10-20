@@ -97,22 +97,24 @@ npm installations -
 ## Demonstration
 
 <img width="1271" alt="Screenshot 2023-10-16 at 11 29 51 am" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/d1ce3f43-0581-4148-9231-d92c23e29118">
-(No CSS)
+
+# (No CSS)
 
 <br></br>
 
 <img width="1034" alt="Screenshot 2023-10-18 at 6 38 33 pm" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/c5b37a6e-4e3b-4a22-99ed-777b70163eeb">
-(With CSS)
+
+# (With CSS)
 
 <br></br>
 
 !['DHT11 Sensor Overview](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/e28cdb8e-7d11-4416-bc78-d43df8c2be2e)
-DHT11 Image
+# DHT11 Image
 
 <br></br>
 
 ![doc breadboard wiring DHT11](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/f9b2386f-79fb-4f6b-b809-557b8cca6d19)
-Connected Wiring Image 
+# Connected Wiring Image 
 
 ## Explanation
 
