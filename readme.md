@@ -18,7 +18,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <strong><summary>Table of Contents</summary></strong>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
