@@ -87,7 +87,8 @@ npm installations -
 
 
 ### Wiring
-![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/ebff2e6f-0dfa-4960-a72c-b681ca0a93a0)
+![doc breadboard wiring DHT11 ESP32](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/0c86bf48-bcf4-4f0e-9e23-7734bb1a88dc)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,12 +105,12 @@ npm installations -
 
 <br></br>
 
-![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/d8154117-583b-4d53-b9f1-d6bd4f229869)
+!['DHT11 Sensor Overview](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/e28cdb8e-7d11-4416-bc78-d43df8c2be2e)
 DHT11 Image
 
 <br></br>
 
-![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/59c7432e-364c-4d9f-91ed-634ecae1a87b)
+![doc breadboard wiring DHT11](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/f9b2386f-79fb-4f6b-b809-557b8cca6d19)
 Connected Wiring Image 
 
 
