@@ -95,12 +95,12 @@ npm installations -
 <!-- Demonstration -->
 ## Demonstration
 
-<img width="1271" alt="Screenshot 2023-10-16 at 11 29 51 am" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/4c8b31f8-6bfb-4546-b709-69f402387a3b">
+<img width="1271" alt="Screenshot 2023-10-16 at 11 29 51 am" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/d1ce3f43-0581-4148-9231-d92c23e29118">
 (No CSS)
 
 <br></br>
 
-![image](https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/4059154e-d2f1-4e1f-931e-eb1e6571402b)
+<img width="1034" alt="Screenshot 2023-10-18 at 6 38 33 pm" src="https://github.com/leolinkebrown/IoT_Assignment_LHLB_IT_9/assets/141324171/c5b37a6e-4e3b-4a22-99ed-777b70163eeb">
 (With CSS)
 
 <br></br>
