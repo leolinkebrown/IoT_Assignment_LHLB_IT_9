@@ -18,6 +18,7 @@
 
 <!-- TABLE OF CONTENTS -->
   <summary>Table of Contents</summary>
+  <details>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -36,6 +37,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#bibliography">Bibliography</a></li>
   </ol>
+  </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
